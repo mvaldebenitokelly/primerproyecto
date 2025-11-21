@@ -1,6 +1,6 @@
 # **README.md — Carrusel Fullscreen con Bootstrap 5**
-
-## Vista general del proyecto
+ 
+## Vista general del proyecto 2
 
 Este proyecto implementa un carrusel a pantalla completa (_fullscreen carousel_) utilizando **Bootstrap 5**.
 Las imágenes se expanden al alto completo del navegador (**100vh**) y utilizan `object-fit: cover` para mantener proporciones sin deformarse.
