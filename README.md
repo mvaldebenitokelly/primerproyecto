@@ -130,28 +130,21 @@ docs/captura5.jpg
 
 # **Estructura del proyecto**
 
-```
+````
 /
 ├── index.html
 ├── README.md
 ├── assets/
-│   ├── css/
-│   │   └── bootstrap.min.css
-│   ├── js/
-│   │   └── bootstrap.bundle.min.js
-│   └── img/
-│       ├── 1.jpg
-│       ├── 2.jpg
-│       ├── 3.jpg
-│       ├── 4.jpg
-│       └── 5.jpg
-└── docs/
-    ├── captura1.jpg
-    ├── captura2.jpg
-    ├── captura3.jpg
-    ├── captura4.jpg
-    └── captura5.jpg
-```
+├── css/
+│   └── bootstrap.min.css
+├── js/
+│   └── bootstrap.bundle.min.js
+└── img/
+   ├── 1.jpg
+   ├── 2.jpg
+   ├── 3.jpg
+   ├── 4.jpg
+   └── 5.jpg
 
 ---
 
@@ -221,7 +214,7 @@ A continuación se incluye la estructura completa del carrusel, lista para integ
     <span class="carousel-control-next-icon"></span>
   </button>
 </div>
-```
+````
 
 ---
 
